@@ -33,7 +33,7 @@
 # Tech:
  The technology used to build the site are
 
-• MySql DataBase
+• Mongodb
 • React JS
 • Chakra UI
 • Node JS
